@@ -22,7 +22,7 @@ How Shears Mining works
 
 Shears Mining is a small, independent SHA-256 pool run from rural (In the middle of nowhere) England, on off-grid solar power. Our hashrate follows the weather: more on sunny days, less in winter and fog.
 
-At the time of writing we have about x50 Bitaxe Gamma 601, and a couple of nerd qaxe (4 times the hash of a bitaxe)
+At the time of writing we have about x50 Bitaxe Gamma 601, and a couple of nerd qaxe (4 times the hash of a bitaxe). We are currently involved in expanding our solar array, to add another 18x 300w panels, to give us more power in winter, those dull days, but i'm not sure that will be enough, but lets see !
 
 Open by default. Every change we make to a coin is published on our GitHub with full source code, release notes and test results. If you want to know what we’re doing with a coin, that’s where to look. There’s no private or “insider” information.
 
