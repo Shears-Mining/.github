@@ -18,4 +18,20 @@ We run a solo and merge-mining pool for Bitaxe and home miners, and we look afte
 
 **Talk to us:** [Discord](https://discord.gg/hmCaf8BRH) · [X](https://x.com/ShearsMining) · [Questions](https://questions.shears.co.uk/qtoa/)
 
+How Shears Mining works
+
+Shears Mining is a small, independent SHA-256 pool run from rural England on off-grid solar power. Our hashrate follows the weather: more on sunny days, less in winter and fog.
+
+Open by default. Every change we make to a coin is published on our GitHub with full source code, release notes and test results. If you want to know what we’re doing with a coin, that’s where to look. There’s no private or “insider” information.
+
+Everyone hears at once. New releases, fork heights and fixes are announced on GitHub, Bitcointalk and our Discord at the same time. Nobody gets advance notice.
+
+Non-custodial. Pool rewards go straight to each miner’s own wallet in the block itself. We never hold your coins.
+
+We mine what we support. We mine the coins we look after, so we hold some of them. We don’t give price predictions or trading advice, and we don’t do private deals.
+
+Handing back. Where we’ve taken over a coin whose team has gone quiet, we’re happy to hand everything back if the original developers return.
+
+Questions? Ask in our Discord.
+
 *A coin of yours stuck, or its developer gone quiet? Open an issue on the coin's repository here, or ask on Discord.*
